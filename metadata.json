@@ -1,0 +1,8 @@
+{
+  "name": "天衍玄机",
+  "description": "Cyber-Taoist Divination Matrix: 八字命盘、文王六十四签、梅花易数与周公智能解梦天机推演系统",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
